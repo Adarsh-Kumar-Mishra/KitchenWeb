@@ -1,4 +1,9 @@
 # KitchenWeb
+Kitchen Story is an e-commerce portal that lets people shop  basic food items on their website
+
+There is a search form in the home page to allow entry of the food items to be purchased by the customer.
+
+Based on item details entered, it will show available food items with  price
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
